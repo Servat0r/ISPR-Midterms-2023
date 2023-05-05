@@ -3,6 +3,8 @@ Midterms for the Intelligent Systems for Pattern Recognition Course @ University
 
 ## List of Midterms done up to now
 
-Midterm 1: Assignment 6 (Implementation and testing of Laplacian of Gaussian filter for blob detection).
+Midterm 1: Assignment 6 (Implementation and testing of `Laplacian of Gaussian` filter for blob detection).
 
-Midterm 2: Assignment 2 (Implementation of an Image Understanding application using Bag Of Visual Words model and Latent Dirichlet Allocation).
+Midterm 2: Assignment 2 (Implementation of an Image Understanding application using `Bag Of Visual Words` model and Latent Dirichlet Allocation).
+
+Midterm 3: Assignment 2 (Implementation and testing of a custom Convolutional Neural Network for `CIFAR-10` dataset classification)
